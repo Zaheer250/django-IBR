@@ -29,7 +29,7 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR,'static'),)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["43.204.38.101", "localhost", "0.0.0.0"]
+ALLOWED_HOSTS = ["13.233.168.110", "localhost", "0.0.0.0"]
 
 
 # Application definition
